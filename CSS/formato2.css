@@ -1,0 +1,187 @@
+
+
+body.fondo{ 
+	background-image: url("../IMG/fon.jpg");
+        
+	/* Fondo estÃ¡tico */
+	background-attachment: fixed;
+	/* Que el fondo no se repita */
+	background-repeat: no-repeat;
+	/* Cambiar el tamaÃ±o del fondo */
+	background-size: cover;
+	/* Ancho del contenido de la pÃ¡gina */
+	width: 50%;
+	/* Margen alrededor del contenido */
+	margin:auto;	
+	text-align: center;
+}
+
+p.titulo{
+         /* Tipo de letra */
+        font-family: 'Libre Baskerville', serif;
+        /* TamaÃ±o de letra */
+	font-size: 50px;	
+	/* Color de letra */
+	color: white;
+	text-shadow: 2px 2px 5px black;
+	/* TÃ­tulo centrado */
+	text-align: center;	
+}
+
+div.op{
+	border: black 3px solid;
+        background: lightblue;
+        width: 300px;       
+        height: autosize;
+        position: absolute;
+        top:50%;        
+        margin-top: -80 px;
+          margin-left: -160px;
+ 	 border-radius: 12px;
+ 	 opacity: 0.7;
+
+ /* Tipo de letra */
+    font-family: 'Libre Baskerville', serif;
+  /* TamaÃ±o de letra */
+	font-size: 15px;	
+	/* Color de letra */
+	color: black;
+	text-shadow: 0px 0px 0px black;
+text-align: left;
+text-decoration:none;
+
+}
+
+
+
+div.op2{
+	border: black 1px solid;
+        background: lightblue;
+        width: 700px;       
+        height: autosize;
+        position: absolute;
+        top:50%;        
+        margin-top: -80 px;
+          margin-left: 170px;
+ 	 border-radius: 12px;
+ 	 opacity: 0.9;
+
+/* Tipo de letra */
+    font-family: 'Libre Baskerville', serif;
+  /* TamaÃ±o de letra */
+	font-size: 15px;	
+	/* Color de letra */
+	color: black;
+	text-shadow: 0px 0px 0px black;
+text-align: center;
+text-decoration:none;
+ 
+
+}
+
+div.menu{
+ border: black 1px solid;
+        background: white;
+        width: 138px;       
+        height: 160px;
+        position: absolute;
+        top:50%;        
+        margin-top: -80 px;
+          margin-left: -315px;
+ 	 border-radius: 12px;
+ 	 opacity: 0.8;
+
+/* Tipo de letra */
+    font-family: 'Libre Baskerville', serif;
+  /* TamaÃ±o de letra */
+	font-size: 15px;	
+	/* Color de letra */
+	color: black;
+	text-shadow: 0px 0px 0px black;
+text-align: left;
+text-decoration:none;
+}
+
+ul.menuU{
+text-align:left;
+
+}
+
+
+p.in{/* Tipo de letra */
+    font-family: 'Libre Baskerville', serif;
+  /* TamaÃ±o de letra */
+	font-size: 15px;	
+	/* Color de letra */
+	color: black;
+	text-shadow: 0px 0px 0px black;
+text-align: justify;
+margin-left:20px ;
+margin-right:20px ;
+text-decoration:none;
+}
+
+p.tituloarqu{/* Tipo de letra */
+    font-family: 'Libre Baskerville', serif;
+  /* TamaÃ±o de letra */
+	font-size: 18px;	
+	/* Color de letra */
+	color: Purple;
+	text-shadow: 0px 0px 0px black;
+text-align: center;
+text-decoration:none;
+}
+
+p.titulo2{/* Tipo de letra */
+    font-family: 'Libre Baskerville', serif;
+  /* TamaÃ±o de letra */
+	font-size: 16px;	
+	/* Color de letra */
+	color: red;
+	text-shadow: 0px 0px 0px black;
+text-align: left;
+margin-left:20px ;
+text-decoration:none;
+}
+
+ul.viñetas{
+ /* Tipo de letra */
+ /*font-family: 'Libre Baskerville', serif;
+  /* TamaÃ±o de letra */
+	font-size: 15px;	
+	/* Color de letra */
+	color: black;
+	/*text-shadow: 2px 2px 5px black;*/
+	text-align:justify;
+ margin-left:20px ;
+	list-style-type:circle;
+}
+
+
+div.unidadunouno{
+/* Tipo de letra */
+font-family: 'Libre Baskerville', serif;
+/* TamaÃ±o de letra */
+font-size: 18px;	
+/* Color de letra */
+color: black;
+text-shadow: 0px 0px 0px black;
+text-align: center;
+text-decoration:none;
+}
+
+img.img2{
+content: url("../IMG/img2.gif");
+	width: 80%;	
+        height: 200px;
+	display: block;
+	margin: auto;
+}
+
+img.ciclo{
+content: url("../IMG/ciclo.png");
+	width: 80%;	
+        height: 200px;
+	display: block;
+	margin: auto;
+}

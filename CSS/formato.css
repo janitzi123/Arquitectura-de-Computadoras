@@ -1,0 +1,358 @@
+
+
+body.fondo{ 
+	background-image: url("../IMG/fon.jpg");
+        
+	/* Fondo estÃ¡tico */
+	background-attachment: fixed;
+	/* Que el fondo no se repita */
+	background-repeat: no-repeat;
+	/* Cambiar el tamaÃ±o del fondo */
+	background-size: cover;
+	/* Ancho del contenido de la pÃ¡gina */
+	width: 50%;
+	/* Margen alrededor del contenido */
+	margin:auto;	
+	text-align: center;
+}
+
+p.titulo{
+         /* Tipo de letra */
+        font-family: 'Libre Baskerville', serif;
+        /* TamaÃ±o de letra */
+	font-size: 50px;	
+	/* Color de letra */
+	color: white;
+	text-shadow: 2px 2px 5px black;
+	/* TÃ­tulo centrado */
+	text-align: center;	
+}
+
+div.op{
+	border: black 3px solid;
+        background: lightblue;
+        width: 300px;       
+        height: autosize;
+        position: absolute;
+        top:50%;        
+        margin-top: -80 px;
+          margin-left: -160px;
+ 	 border-radius: 12px;
+ 	 opacity: 0.7;
+
+ /* Tipo de letra */
+    font-family: 'Libre Baskerville', serif;
+  /* TamaÃ±o de letra */
+	font-size: 15px;	
+	/* Color de letra */
+	color: black;
+	text-shadow: 0px 0px 0px black;
+text-align: left;
+text-decoration:none;
+
+}
+
+
+
+div.op2{
+	border: black 1px solid;
+        background: lightblue;
+        width: 700px;       
+        height: autosize;
+        position: absolute;
+        top:50%;        
+        margin-top: -80 px;
+          margin-left: 170px;
+ 	 border-radius: 12px;
+ 	 opacity: 0.9;
+
+/* Tipo de letra */
+    font-family: 'Libre Baskerville', serif;
+  /* TamaÃ±o de letra */
+	font-size: 15px;	
+	/* Color de letra */
+	color: black;
+	text-shadow: 0px 0px 0px black;
+text-align: center;
+text-decoration:none;
+ 
+
+}
+
+div.menu{
+ border: black 1px solid;
+        background: white;
+        width: 138px;       
+        height: 160px;
+        position: absolute;
+        top:50%;        
+        margin-top: -80 px;
+          margin-left: -315px;
+ 	 border-radius: 12px;
+ 	 opacity: 0.8;
+
+/* Tipo de letra */
+    font-family: 'Libre Baskerville', serif;
+  /* TamaÃ±o de letra */
+	font-size: 15px;	
+	/* Color de letra */
+	color: black;
+	text-shadow: 0px 0px 0px black;
+text-align: left;
+text-decoration:none;
+}
+
+ul.menuU{
+text-align:left;
+
+}
+
+
+p.in{/* Tipo de letra */
+    font-family: 'Libre Baskerville', serif;
+  /* TamaÃ±o de letra */
+	font-size: 15px;	
+	/* Color de letra */
+	color: black;
+	text-shadow: 0px 0px 0px black;
+text-align: justify;
+margin-left:20px ;
+margin-right:20px ;
+text-decoration:none;
+}
+
+p.tituloarqu{/* Tipo de letra */
+    font-family: 'Libre Baskerville', serif;
+  /* TamaÃ±o de letra */
+	font-size: 18px;	
+	/* Color de letra */
+	color: Purple;
+	text-shadow: 0px 0px 0px black;
+text-align: center;
+text-decoration:none;
+}
+
+p.titulo2{/* Tipo de letra */
+    font-family: 'Libre Baskerville', serif;
+  /* TamaÃ±o de letra */
+	font-size: 16px;	
+	/* Color de letra */
+	color: red;
+	text-shadow: 0px 0px 0px black;
+text-align: left;
+margin-left:20px ;
+text-decoration:none;
+}
+
+ul.viñetas{
+ /* Tipo de letra */
+ /*font-family: 'Libre Baskerville', serif;
+  /* TamaÃ±o de letra */
+	font-size: 15px;	
+	/* Color de letra */
+	color: black;
+	/*text-shadow: 2px 2px 5px black;*/
+	text-align:justify;
+ margin-left:20px ;
+	list-style-type:circle;
+}
+
+img.segmentado{
+content: url("../IMG/im1.jpg");
+	width: 80%;	
+     
+        height: 50px;
+	display: block;
+	margin: auto;
+}
+
+div.unidadunouno{
+/* Tipo de letra */
+font-family: 'Libre Baskerville', serif;
+/* TamaÃ±o de letra */
+font-size: 18px;	
+/* Color de letra */
+color: black;
+text-shadow: 0px 0px 0px black;
+text-align: center;
+text-decoration:none;
+}
+
+img.partesalu{
+content: url("../IMG/partesalu.png");
+	width: 50%;	
+     
+        height: 200px;
+	display: block;
+	margin: auto;
+}
+
+img.modulo{
+content: url("../IMG/modulo.png");
+	width: 60%;	
+     
+        height: 250px;
+	display: block;
+	margin: auto;
+}
+
+img.int{
+content: url("../IMG/int.png");
+	width: 60%;	
+     
+        height: 200px;
+	display: block;
+	margin: auto;
+}
+
+img.int2{
+content: url("../IMG/int2.png");
+	width: 60%;	
+     
+        height: 200px;
+	display: block;
+	margin: auto;
+}
+
+img.est{
+content: url("../IMG/est.png");
+	width: 60%;	
+     
+        height: 200px;
+	display: block;
+	margin: auto;
+}
+
+img.buses{
+content: url("../IMG/buses.jpg");
+	width: 50%;	
+     
+        height: 200px;
+	display: block;
+	margin: auto;
+}
+
+img.memoria{
+content: url("../IMG/memoria.png");
+	width: 80%;	
+        height: 200px;
+	display: block;
+	margin: auto;
+}
+img.memp{
+content: url("../IMG/memp.png");
+	width: 80%;	
+        height: 200px;
+	display: block;
+	margin: auto;
+}
+
+
+img.img2{
+content: url("../IMG/img2.gif");
+	width: 80%;	
+        height: 200px;
+	display: block;
+	margin: auto;
+}
+
+img.ciclo{
+content: url("../IMG/ciclo.png");
+	width: 80%;	
+        height: 200px;
+	display: block;
+	margin: auto;
+}
+
+img.chip{
+content: url("../IMG/chip.jpg");
+	width: 80%;	
+        height: 200px;
+	display: block;
+	margin: auto;
+}
+
+img.contro{
+content: url("../IMG/contro.gif");
+	width: 60%;	
+        height: 400px;
+	display: block;
+	margin: auto;
+}
+
+img.puertos{
+content: url("../IMG/puertos.jpg");
+	width: 60%;	
+        height: 400px;
+	display: block;
+	margin: auto;
+}
+
+img.dma{
+content: url("../IMG/dma.jpg");
+	width: 60%;	
+        height: 400px;
+	display: block;
+	margin: auto;
+}
+
+img.cirtem{
+content: url("../IMG/cirtem.jpg");
+	width: 60%;	
+        height: 400px;
+	display: block;
+	margin: auto;
+}
+
+img.circo{
+content: url("../IMG/circo.png");
+	width: 60%;	
+        height: 400px;
+	display: block;
+	margin: auto;
+}
+
+img.convi{
+content: url("../IMG/convi.jpg");
+	width: 60%;	
+        height: 400px;
+	display: block;
+	margin: auto;
+}
+
+img.convi{
+content: url("../IMG/nego.png");
+	width: 80%;	
+        height: 400px;
+	display: block;
+	margin: auto;
+}
+img.com{
+content: url("../IMG/com.jpeg");
+	width: 80%;	
+        height: 400px;
+	display: block;
+	margin: auto;
+}
+img.ins{
+content: url("../IMG/ins.png");
+	width: 80%;	
+        height: 200px;
+	display: block;
+	margin: auto;
+}
+img.sec{
+content: url("../IMG/sec.png");
+	width: 80%;	
+        height: 200px;
+	display: block;
+	margin: auto;
+}
+
+img.mult{
+content: url("../IMG/mult.png");
+	width: 80%;	
+        height: 200px;
+	display: block;
+	margin: auto;
+}
